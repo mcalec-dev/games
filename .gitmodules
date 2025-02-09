@@ -1,0 +1,12 @@
+[submodule "retro-bowl"]
+	path = retro-bowl
+	url = https://github.com/3kho/retro-bowl
+[submodule "changed.mcalec.dev"]
+	path = changed.mcalec.dev
+	url = https://github.com/mcalec-dev/changed.mcalec.dev
+[submodule "slope-game"]
+	path = slope-game
+	url = https://github.com/mcalec-dev/slope-game
+[submodule "eaglercraft.mcalec.dev"]
+	path = eaglercraft.mcalec.dev
+	url = https://github.com/mcalec-dev/eaglercraft.mcalec.dev
